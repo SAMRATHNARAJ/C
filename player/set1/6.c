@@ -34,5 +34,5 @@ for(i=len-1;i>0;i--)
 	k=k+n[i-1];
 }
 printf("%d",k);
-	return 0;
+return 0;
 }
